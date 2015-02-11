@@ -1,0 +1,52 @@
+@import url(http://fonts.googleapis.com/css?family=Philosopher);
+
+body {
+    background: url(../img/sky.jpg) no-repeat fixed;
+    font-family: 'Philosopher', sans-serif;
+    letter-spacing: .06em;
+}
+
+img {
+    width: 100%;
+
+}
+
+div.navigation {
+    width: 15%;
+    float: left;
+    text-align: left;
+}
+
+.navigation div {
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 10px;
+    /*margin-left: -10px;*/
+}
+
+div.content {
+    width: 80%;
+    float: right;
+}
+
+div.container {
+    border: 1px solid orange;
+    min-height: 300px;
+}
+
+div.testa {
+    background: url(../img/sfbridge.jpg) no-repeat fixed left;
+    border: 1px solid purple;
+    min-height: 300px;
+}
+
+.testa p {
+    background: rgba(255,255,255,.75);
+}
+
+div.testb {
+    margin-top: 10%;
+    background: url(../img/beach_walkway.jpg) no-repeat left fixed;
+    border: 1px solid yellow;
+    min-height: 300px;
+}

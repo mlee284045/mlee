@@ -1,0 +1,14 @@
+body {
+	/*background: rgba(255,255,255,.5);*/
+	/*background: darkgrey;*/
+	width: 200%;
+}
+
+.eyehole {
+	margin: 35% 35%;
+	/*background: black;*/
+	background: url(../img/sfbridge.jpg) no-repeat fixed center;
+	width: 300px;
+	border-radius: 50%;
+	height: 300px;
+}
